@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Raleway:400,700&subset=latin-ext');
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background-image: url("https://images.pexels.com/photos/131616/pexels-photo-131616.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+	background-size: cover;
+	font-size: 22px;
+	color: white;
+}
+
+.container {
+	margin-top: 100px;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 33px;
+}
+
+.row .col-xs-5 span {
+	margin-bottom: 20px 0 0 40px;
+	font-size: 30px;
+	font-weight: 700;
+	margin-left: 10px;
+}
+
+.col-xs-2 {
+	font-size: 66px;
+}
+
+.btn {
+	font-weight: 700;
+	font-size: 44px;
+	padding: 10px;
+}
+
+.fa {
+	font-size: 33px;
+}
+
+#js-playerPickElement .row .btn {
+	margin-left: 15px;
+}
+
+#js-resultsTableElement .row {
+	margin-bottom: 20px;
+}
+
+#js-playerPoints {
+	padding: 10px;
+}
+
+#js-computerPoints {
+	padding: 10px;
+}
